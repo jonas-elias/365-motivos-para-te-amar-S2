@@ -1,0 +1,17 @@
+const motivos = [
+    'Você tem um sorriso perfeito',
+    'Amo quando você diz que me ama',
+    'Você me dá motivação todos os dias',
+    'Amo cada um dos seus traços',
+    'Amo a sua voz',
+    'Amo cada palavra que sai da sua boca',
+    'Amo nossas linguagens do amor',
+    'Amo os seus lábios',
+    'Eu te amo porque tudo com você tem cor',
+    'Você me dá paz',
+    'Você me traz felicidade diariamente',
+    'Amo seu jeito',
+    'Amo a maneira como você fala',
+    'Amo ver você feliz',
+    'Amo ficar coladinho de você',
+];
