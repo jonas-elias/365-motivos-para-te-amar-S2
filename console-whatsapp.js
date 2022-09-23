@@ -8,8 +8,8 @@
 async function sendMessage(arrayMessages, interval) {
     const selectorInputText = 'P.copyable-text.selectable-text';
     const button = 'button.tvf2evcx.oq44ahr5.lb5m6g5c.svlsagor.p2rjqpw5.epia9gcq'
+    const InputText = document.querySelector(selectorInputText);
     for (let i = 0; i < arrayMessages.length; i++) {
-        const InputText = document.querySelector(selectorInputText);
         await readMessageInput(InputText, arrayMessages[i], interval);
         await clickSend(button);
     }
