@@ -1,4 +1,4 @@
-<img src="./images/eu&ela.jpeg" style="width: 35%; border-radius: 20%;">
+<img src="./images/eu&ela.png" style="width: 25%;">
 
 # 365-motivos-para-te-amar-S2
 
