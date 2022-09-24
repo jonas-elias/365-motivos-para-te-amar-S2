@@ -12,7 +12,7 @@ Basta copiar o código do arquivo "console-whatsapp.js" dentro do console do nav
 ## Exemplo de uso (copy-paste no console do navegador)
 
 ```bash
-const motivos = [
+const motives = [
     'Motivo 1',
     'Motivo 2',
 ];
@@ -56,7 +56,7 @@ function clickSend(selectorButton) {
     })
 }
 
-sendMessage(motivos, 1);
+sendMessage(motives, 1);
 
 ```
 
