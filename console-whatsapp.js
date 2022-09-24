@@ -35,7 +35,7 @@ function readMessageInput(element, message, interval) {
                 resolved('resolved');
             }, interval * 1000);
         } catch (error) {
-            rejected(error)
+            rejected(error);
         }
     })
 }
@@ -53,7 +53,7 @@ function clickSend(selectorButton) {
             console.log('Message sent...');
             resolved('resolved');
         } catch (error) {
-            rejected(error)
+            rejected(error);
         }
     })
 }
