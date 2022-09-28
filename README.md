@@ -61,5 +61,7 @@ sendMessage(motives, 1);
 ```
 
 ## License
-#### Usem a minha ideia com moderação HSUAHASUHSAU 
-[MIT](https://choosealicense.com/licenses/mit/)
+```bash
+##### Usem a minha ideia com moderação HSUAHASUHSAU
+MIT License - <jonas-elias/>
+```
